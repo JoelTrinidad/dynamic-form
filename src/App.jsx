@@ -1,6 +1,7 @@
 import Introduction from './components/Introduction';
 import NavbarMenu from './components/NavbarMenu';
 import Services from './components/Services';
+import DynamicForm from './components/DynamicForm';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
      <NavbarMenu />
      <Introduction />
      <Services />
+     <DynamicForm />
     </div>
   )
 }
