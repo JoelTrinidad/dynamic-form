@@ -40,6 +40,13 @@
   cursor: pointer;
 }
 
+.dynamic-form .content-dynamic-form .bi-arrow-right-short,
+.dynamic-form .content-dynamic-form .bi-arrow-left-short {
+  width: 28px;
+  height: 28px;
+  fill: currentColor;
+}
+
 .dynamic-form .steps-numbers {
   text-align: left;
   padding: 15px 0 0 40px;
